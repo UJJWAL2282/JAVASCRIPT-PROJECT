@@ -1,0 +1,41 @@
+body{
+    text-align: center;
+}
+
+
+.btn{
+    height:200px;
+    width: 200px;
+    border-radius:20%;
+    border:10px solid black;
+    margin:2em;
+}
+
+.btn-container{
+    display: flex;
+    justify-content:center ;
+}
+
+.red{
+    background-color: rgb(203, 78, 78);
+}
+.yellow{
+    background-color: rgb(215, 128, 35);
+}
+
+.green{
+    background-color:rgb(0, 96, 128) ;
+}
+
+.purple{
+    background-color: rgb(53, 77, 173);
+}
+
+
+.flash{
+    background-color: white;
+}
+
+.user{
+    background-color: green;
+}
